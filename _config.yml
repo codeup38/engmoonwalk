@@ -30,9 +30,9 @@ disqus_shortname:   codeup38
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-144551143-1
   #verify:
   #ad-client:
   #ad-slot:
