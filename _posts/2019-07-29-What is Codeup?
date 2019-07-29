@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Codeup OJ란 무엇인가?"
+date: 2019-07-29
+tag:
+- Codeup
+- OJ
+comments:true
+---
+
+이 글에서는 Codeup Online Judge에 대한 간략한 소개를 하고자 한다.  
+  
+사실 이런저런 정보는 [나무위키 문서](https://namu.wiki/w/CodeUp) 를 참고하는게 더 도움이 될 수 있으며  
+  
+[필자](https://codeup.kr/userinfo.php?user=kimgihong38)는 Codeup에서 600문제 가량을 풀이하면서 알게 된 것들만 간략히 소개하려 한다.  
+    
+--------------------------
+## Online Judge란?
+  
+온라인 저지(영어: Online Judge, OJ)란 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템이다.[출처 : 위키피디아 문서](https://ko.wikipedia.org/wiki/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80)
+  
+위키피디아 문서에 설명이 잘 되어있고, 국내/외의 여러 Online Judge들의 링크들이 있으니 잠시나마 읽어 보아도 좋겠다.  
+  
+## Codeup은?
+
+이 글의 작성 시점에서 누적 소스 코드 제출수 **9,997,229**번, 가입자 수 **119,435**명을 돌파한 OJ이다.  
+  
+Codeup OJ의 관리는 2012년 이래로 [admin](https://codeup.kr/userinfo.php?user=admin) 한 분이 담당하고 있으며  
+admin님은 현직 과학고등학교 정보교사라고 한다.  
+  
+<img src="/imgfile/Codeup_home.png">  
+  
+코드업에 접속하면 가장 먼저 보이는 화면이다.  
+  
