@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: "게시판 관리자가 들려주는 Codeup OJ 이야기?"
 date: 2019-07-30
@@ -6,7 +6,7 @@ tag:
 - Codeup
 - OJ
 comments:true
-----
+---
 
 <https://codeup.kr>  
   
