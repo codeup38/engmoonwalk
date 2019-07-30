@@ -13,7 +13,7 @@ comments:true
   
 이 글에서는 Codeup Online Judge에 대한 간략한 소개를 하고자 한다.  
   
-사실 이런저런 정보는 [나무위키 문서](https://namu.wiki/w/CodeUp) 를 참고하는게 더 도움이 될 수 있으며  
+사실 이런저런 정보는 [나무위키 문서](https://namu.wiki/w/CodeUp)를 참고하는게 더 도움이 될 수 있으며  
   
 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)는 Codeup에서 600문제 가량을 풀이하면서 알게 된 것들만 간략히 소개하려 한다.  
     
@@ -31,8 +31,8 @@ comments:true
 Codeup OJ의 관리는 2012년 이래로 [admin](https://codeup.kr/userinfo.php?user=admin) 한 분이 담당하고 있으며  
 admin님은 현직 과학고등학교 정보교사라고 한다.  
   
-<img src="/imgfile/Codeup_home.png">  
-  
+ <a href="/imgfile/Codeup_home.png"><img src="/imgfile/Codeup_home.png"></a>  
+   
 Codeup에 접속하면 가장 먼저 보이는 화면이다.  
   
 앞으로 자주 보게 될 화면이니 친숙해지는 것이 좋다.  
