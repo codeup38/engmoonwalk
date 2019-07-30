@@ -31,7 +31,7 @@ comments:true
 Codeup OJ의 관리는 2012년 이래로 [admin](https://codeup.kr/userinfo.php?user=admin) 한 분이 담당하고 있으며  
 admin님은 현직 과학고등학교 정보교사라고 한다.  
   
- ![Codeup_Home](/imgfile/Codeup_home.png)
+ ![Codeup_Home](https://workspace.moonwalk.cf/imgfile/Codeup_home.png)
    
 Codeup에 접속하면 가장 먼저 보이는 화면이다.  
   
@@ -80,7 +80,7 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
  랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119100 "엄청나죠? ㅋㅋㅋㅋ") 를 보면 입이 벌어질 정도다.  
  Codeup에서 이런 유쾌한 컨셉을 가진 계정들을 종종 볼수 있다.  
    
- <u>물론, 그 정도가 심하면 계정 차단도 당할수 있다..</u>  
+ 물론, 그 정도가 심하면 계정 차단도 당할수 있다..  
  주의하자.  
    
  #### 문제 출제  
