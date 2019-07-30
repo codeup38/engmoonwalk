@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: "게시판 관리자가 들려주는 Codeup OJ 이야기?"
 date: 2019-07-30
@@ -6,7 +6,7 @@ tag:
 - Codeup
 - OJ
 comments:true
----
+--
 
 <https://codeup.kr>  
   
@@ -17,13 +17,13 @@ comments:true
 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)는 Codeup에서 600문제 가량을 풀이하면서 알게 된 것들만 간략히 소개하려 한다.  
     
 --------------------------
-## Online Judge란?
+#### Online Judge란?
   
 온라인 저지(영어: Online Judge, OJ)란 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템이다.[출처 : 위키피디아 문서](https://ko.wikipedia.org/wiki/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80)
   
 위키피디아 문서에 설명이 잘 되어있고, 국내/외의 여러 Online Judge들의 링크들이 있으니 잠시나마 읽어 보아도 좋겠다.  
   
-## Codeup은?
+#### Codeup은?
 
 이 글의 작성 시점에서 누적 소스 코드 제출수 **9,997,229**번, 가입자 수 **119,435**명을 돌파한 OJ이다.  
   
@@ -40,12 +40,12 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
   
   
   ---------------------------------------
-### 6000번대 문제들  
+#### 6000번대 문제들  
   
-**창원과학고등학교**학생들만 열람할 수 있는 문제들이다.  
+**창원과학고등학교** 학생들만 열람할 수 있는 문제들이다.  
 주로 CS로 아이디가 시작하는 유저들에 해당한다.  
   
-### 코드골프(숏코딩, Code Golf)  
+#### 코드골프(숏코딩, Code Golf)  
   
 제출하는 소스 코드의 길이를 극한으로 줄이는 하나의 놀이를 숏코딩 혹은 코드 골프라고 한다.  
 필자도 몇 번 해봤지만, ~사람 할 것이 못 되니 주의하자.~  
@@ -53,15 +53,15 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
 (거의 유일하게) 필자가 숏코딩 1위를 차지한 문제가 있다.  
   
 [2763 서로 소](https://codeup.kr/problemstatus.php?id=2763) 문제이다.  
-[채점 상황](https://codeup.kr/problemstatus.php?id=2763)을 보면 65B로 1위를 차지하고 있다.  
-~여담이지만 똑같이 65B로 2위이신 [YunGoon](https://codeup.kr/userinfo.php?user=YunGoon)님은 내가 소스를 알려드렸다.~  
+[채점 상황](https://codeup.kr/problemstatus.php?id=2763) 을 보면 65B로 1위를 차지하고 있다.  
+~여담이지만 똑같이 65B로 2위이신 [YunGoon](https://codeup.kr/userinfo.php?user=YunGoon) 님은 내가 소스를 알려드렸다.~  
     
   
 그리고 자랑도 아무 때나 하는게 아니니, 기왕 자랑하는 김에 하나 더 자랑하도록 하자.  
-[3018 쿨식스](https://codeup.kr/problem.php?id=3018)문제를 풀이하고 나면, [모범 소스](https://codeup.kr/showsource.php?id=7959745 "못 볼수도 있다")를 열람할 수 있는데  
+[3018 쿨식스](https://codeup.kr/problem.php?id=3018)문제를 풀이하고 나면, [모범 소스](https://codeup.kr/showsource.php?id=7959745 "못 볼수도 있다") 를 열람할 수 있는데  
 해당 모범 소스는 필자가 제출한, 필자의 소스 코드이다. ><  
   
-### 게시판 뒷북  
+#### 게시판 뒷북  
   
 사실 이 내용도 말할게 많은 내용인데, 간략하게 이야기하면 이렇다.  
   
@@ -72,24 +72,24 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
    
  지양하는게 좋지 않을까?  
    
- ### Codeup 네임드  
+ #### Codeup 네임드  
    
  보통 Codeup 네임드는 [랭킹](https://codeup.kr/ranklist.php) 극상위권이나, 랭킹 극하위권.. 정도이다.  
    
- 랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119100 "엄청나죠? ㅋㅋㅋㅋ")를 보면 입이 벌어질 정도다.  
+ 랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119100 "엄청나죠? ㅋㅋㅋㅋ") 를 보면 입이 벌어질 정도다.  
  Codeup에서 이런 유쾌한 컨셉을 가진 계정들을 종종 볼수 있다.  
    
  <u>물론, 그 정도가 심하면 계정 차단도 당할수 있다..</u>  
  주의하자.  
    
- ### 문제 출제  
+ #### 문제 출제  
    
  Codeup에서는 누구나 문제를 출제 할수 있다. 비록 쉬운 문제는 거절당하겠지만..  
  아래 링크를 참고하면 되겠다.  
    
  <https://codeup.kr/classop.php?class_id=119>  
    
- ### Test Case Open  
+ #### Test Case Open  
    
  Codeup에서는 잘못된 풀이가 나오면, 해당 테스트 케이스(Test Case)를 알려준다.  
  하지만 예외가 있으니 바로..  
@@ -98,7 +98,7 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
  - 실행 중 에러나 표현 에러 등은 안 보여준다.
  - SPJ 문제는 안 보여준다. (아래 참고)
   
-### SPJ 문제  
+#### SPJ 문제  
   
 **Sp**ecial **J**udge의 약자로, 어떤 경우에도 테스트 케이스를 알려주지 않는 문제들이다.  
 SPJ 문제들은 아래 중 하나에 속하는데  
@@ -107,7 +107,7 @@ SPJ 문제들은 아래 중 하나에 속하는데
 - 넌센스 문제로, 테스트 케이스 공개가 곧 답 공개일 경우  
 - 답(output)이 여러 개가 가능할 경우  
   
- ### 게시판 관리자
+ #### 게시판 관리자
   
 2018.09.09부터 게시판을 관리해줄 게시판 관리자가 생겼다.  
 1년동안 게시판을 관리해주고 있는(2019.08.31)까지 1기 게시판 관리자들은  
@@ -120,18 +120,18 @@ SPJ 문제들은 아래 중 하나에 속하는데
 이렇게 네 명으로 이루어져 있고  
 2기 게시판 관리자부터는 투표로 뽑는다고 한다.  
   
-### ID 제한  
+#### ID 제한  
   
 ID에 Codeup이나 admin이 들어간 ID는 **생성할 수 없다.**  
 하지만 언제나 예외는 있으니..  
-[admin2](https://codeup.kr/userinfo.php?user=admin2)같은 계정이나 [admin3](https://codeup.kr/userinfo.php?user=admin3)같은 계정이다.  
+[admin2](https://codeup.kr/userinfo.php?user=admin2) 같은 계정이나 [admin3](https://codeup.kr/userinfo.php?user=admin3) 같은 계정이다.  
   
 이 계정들은 ID 금지어가 도입되기 전에 만들어진, 현 시점에서는 레어 ID다.  
   
 여담이지만 [admin3](https://codeup.kr/userinfo.php?user=admin3) 계정의 닉네임(자기소개)를 잘 보길 바란다.  
 ~admin님 저거 제 계정은 아닙니다~  
   
-### Codeup 서버 이전  
+#### Codeup 서버 이전  
   
 2018년 12월 15일을 기점으로 Codeup OJ의 서버가 이전되었다.  
 그러면서 Codeup 주소인 <https://codeup.kr/JudgeOnline/>가 <https://codeup.kr>로 바뀌게 되었다.  
@@ -140,10 +140,10 @@ ID에 Codeup이나 admin이 들어간 ID는 **생성할 수 없다.**
   
 서버 이전 이후부터는 컴파일러 세팅/버전에 차이가 생겨 **서버 이전하기 전에 정확한 풀이가 뜬 소스가 이제는 잘못된 풀이/실행 중 에러를 뱉어내는 경우가 종종 생긴다.**  
   
-심지어는 기초 100제 중 하나인 [1037 정수 한 개 입력받아 아스키 문자로 출력하기](https://codeup.kr/problem.php?id=1037)의 모범 소스조차도  
+심지어는 기초 100제 중 하나인 [1037 정수 한 개 입력받아 아스키 문자로 출력하기](https://codeup.kr/problem.php?id=1037) 의 모범 소스조차도  
 C로 제출하면 실행 중 에러가 뜬다.~(게시판에 올려 수정을 부탁드렸지만 admin님이 바쁘신가보다..)~  
   
-### 정렬 기준  
+#### 정렬 기준  
   
 - 게시판 댓글  
 댓글을 단 순서대로 번호가 부여되며, 예전과 다르게 지금은 댓글을 삭제하면 해당 번호도 같이 사라진다.  
@@ -161,7 +161,7 @@ C로 제출하면 실행 중 에러가 뜬다.~(게시판에 올려 수정을 �
   
 이것 때문에 숏코딩 1위를 차지하고도 다시 뺏기는 슬픈 상황이 종종 일어나곤 한다.  
   
-### 기타 특이점
+#### 기타 특이점
 
 Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가능하다.  
   
@@ -178,17 +178,17 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
   
 필자는 Html/Javascript를 이용해 Codeup 개인 강의 게시판을 워 게임 게시판으로 만들어 버렸던 적이 있었다..ㅋㅋㅋㅋ  
   
-[이 게시글](https://codeup.kr/d_thread.php?tid=5495 "#32 확인")에서 32번 댓글을 보면, 농담이 아니라는걸 알 것이다.  
+[이 게시글](https://codeup.kr/d_thread.php?tid=5495 "#32 확인") 에서 32번 댓글을 보면, 농담이 아니라는걸 알 것이다.  
   
 암호를 맞춰야 개인 강의 게시글을 볼 수 있게 만들어, 잠시나마 화제가 되었던 개인 강의 게시글이었지만 지금은 Codeup에서 다시 볼수 있는 방법은 없다.  
   
 하지만 이 사이트에서는 재현이 가능하기 때문에~(ㅋㅋㅋㅋㅋ)~ 다시 부활시켰다.  
   
-한번 체험해 보길 바란다. [체험해보기]({{ site.url }}/Codeup_SHA256.html)  
+한번 체험해 보길 바란다. [체험해보기](https://workspace.moonwalk.cf/Codeup_SHA256.html)  
   
-해당 글은 Codeup에서 스크립트 차단 때문에 [이렇게](https://codeup.kr/classop.php?class_id=7080)보인다.  
+해당 글은 Codeup에서 스크립트 차단 때문에 [이렇게](https://codeup.kr/classop.php?class_id=7080) 보인다.  
   
-글 내용을 제대로 보고 싶으면, [여기](https://codeup.kr/classop.php?class_id=7082)로 들어가면 된다.  
+글 내용을 제대로 보고 싶으면, [여기](https://codeup.kr/classop.php?class_id=7082) 로 들어가면 된다.  
   
 아래는 필자의 Codeup 개인 강의 리스트이다. 심심하면 읽어봐도 좋다.  
   
