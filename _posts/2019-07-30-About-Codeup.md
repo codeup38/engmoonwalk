@@ -31,7 +31,7 @@ comments:true
 Codeup OJ의 관리는 2012년 이래로 [admin](https://codeup.kr/userinfo.php?user=admin) 한 분이 담당하고 있으며  
 admin님은 현직 과학고등학교 정보교사라고 한다.  
   
- ![Codeup_Home](./imgfile/Codeup_home.PNG)
+ ![Codeup_Home](https://workspace.moonwalk.cf/imgfile/Codeup_home.PNG)
    
 Codeup에 접속하면 가장 먼저 보이는 화면이다.  
   
