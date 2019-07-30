@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "게시판 관리자가 들려주는 Codeup OJ 이야기?"
+title: "Codeup OJ에 대해 알아보자"
+excerpt: "게시판 관리자가 알려주는 Codeup OJ 이야기"
 date: 2019-07-30
 tag:
 - Codeup
@@ -19,7 +20,7 @@ comments:true
 --------------------------
 #### Online Judge란?
   
-온라인 저지(영어: Online Judge, OJ)란 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템이다.[출처 : 위키피디아 문서](https://ko.wikipedia.org/wiki/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80)
+온라인 저지(영어: Online Judge, OJ)란 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템이다. [출처 : 위키피디아 문서](https://ko.wikipedia.org/wiki/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80)
   
 위키피디아 문서에 설명이 잘 되어있고, 국내/외의 여러 Online Judge들의 링크들이 있으니 잠시나마 읽어 보아도 좋겠다.  
   
@@ -203,3 +204,6 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
   
 이 글을 끝까지 읽은 여러분에게, 앞으로도 즐거운 Codeup 생활을 하길 기원하도록 하겠다.  
 읽어주셔서 감사합니다. ;)  
+
+
+검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/
