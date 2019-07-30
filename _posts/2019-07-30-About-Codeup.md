@@ -31,7 +31,7 @@ comments:true
 Codeup OJ의 관리는 2012년 이래로 [admin](https://codeup.kr/userinfo.php?user=admin) 한 분이 담당하고 있으며  
 admin님은 현직 과학고등학교 정보교사라고 한다.  
   
- <a href="/imgfile/Codeup_home.png"><img src="/imgfile/Codeup_home.png"></a>  
+ ![Codeup_Home](/imgfile/Codeup_home.png)
    
 Codeup에 접속하면 가장 먼저 보이는 화면이다.  
   
@@ -49,13 +49,13 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
 #### 코드골프(숏코딩, Code Golf)  
   
 제출하는 소스 코드의 길이를 극한으로 줄이는 하나의 놀이를 숏코딩 혹은 코드 골프라고 한다.  
-필자도 몇 번 해봤지만, ~사람 할 것이 못 되니 주의하자.~  
+필자도 몇 번 해봤지만, ~~사람 할 것이 못 되니 주의하자.~~  
   
 (거의 유일하게) 필자가 숏코딩 1위를 차지한 문제가 있다.  
   
 [2763 서로 소](https://codeup.kr/problemstatus.php?id=2763) 문제이다.  
 [채점 상황](https://codeup.kr/problemstatus.php?id=2763) 을 보면 65B로 1위를 차지하고 있다.  
-~여담이지만 똑같이 65B로 2위이신 [YunGoon](https://codeup.kr/userinfo.php?user=YunGoon) 님은 내가 소스를 알려드렸다.~  
+~~여담이지만 똑같이 65B로 2위이신 [YunGoon](https://codeup.kr/userinfo.php?user=YunGoon) 님은 내가 소스를 알려드렸다.~~  
     
   
 그리고 자랑도 아무 때나 하는게 아니니, 기왕 자랑하는 김에 하나 더 자랑하도록 하자.  
@@ -130,7 +130,7 @@ ID에 Codeup이나 admin이 들어간 ID는 **생성할 수 없다.**
 이 계정들은 ID 금지어가 도입되기 전에 만들어진, 현 시점에서는 레어 ID다.  
   
 여담이지만 [admin3](https://codeup.kr/userinfo.php?user=admin3) 계정의 닉네임(자기소개)를 잘 보길 바란다.  
-~admin님 저거 제 계정은 아닙니다~  
+~~admin님 저거 제 계정은 아닙니다~~  
   
 #### Codeup 서버 이전  
   
@@ -183,7 +183,7 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
   
 암호를 맞춰야 개인 강의 게시글을 볼 수 있게 만들어, 잠시나마 화제가 되었던 개인 강의 게시글이었지만 지금은 Codeup에서 다시 볼수 있는 방법은 없다.  
   
-하지만 이 사이트에서는 재현이 가능하기 때문에~(ㅋㅋㅋㅋㅋ)~ 다시 부활시켰다.  
+하지만 이 사이트에서는 재현이 가능하기 때문에~~(ㅋㅋㅋㅋㅋ)~~ 다시 부활시켰다.  
   
 한번 체험해 보길 바란다. [체험해보기](https://workspace.moonwalk.cf/Codeup_SHA256.html)  
   
