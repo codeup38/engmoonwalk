@@ -82,7 +82,7 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
    
  보통 Codeup 네임드는 [랭킹](https://codeup.kr/ranklist.php) 극상위권이나, 랭킹 극하위권.. 정도이다.  
    
- 랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119100 "엄청나죠? ㅋㅋㅋㅋ") 를 보면 입이 벌어질 정도다.  
+ 랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119100 "엄청나죠? ㅋㅋㅋㅋ")를 보면 입이 벌어질 정도다.  
  Codeup에서 이런 유쾌한 컨셉을 가진 계정들을 종종 볼수 있다.  
    
  물론, 그 정도가 심하면 계정 차단도 당할수 있다..  
