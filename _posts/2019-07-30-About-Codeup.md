@@ -60,7 +60,7 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
     
   
 그리고 자랑도 아무 때나 하는게 아니니, 기왕 자랑하는 김에 하나 더 자랑하도록 하자.  
-[3018 쿨식스](https://codeup.kr/problem.php?id=3018)문제를 풀이하고 나면, [모범 소스](https://codeup.kr/showsource.php?id=7959745 "못 볼수도 있다") 를 열람할 수 있는데  
+[3018 쿨식스](https://codeup.kr/problem.php?id=3018) 문제를 풀이하고 나면, [모범 소스](https://codeup.kr/showsource.php?id=7959745 "못 볼수도 있다")를 열람할 수 있는데  
 해당 모범 소스는 필자가 제출한, 필자의 소스 코드이다. ><  
   
  <br/> 
