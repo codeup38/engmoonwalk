@@ -201,8 +201,13 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
   
 #### 게시판 레전드  
   
-게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.  
-레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38) 에게 쪽지 등으로 제보 바란다.  
+우리가 무슨 민족인가. 풍자와 해학의 민족이 아닌가?  
+
+그걸 굉장히 잘 보여주는 모범 사례들이 있다.  
+구경해 보도록 하자.  
+
+참고로, *게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.*  
+**레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다.**  
 
 - [쉽네요...](https://codeup.kr/d_thread.php?tid=7455&cid=)
 - [선우가 잘못했네](https://codeup.kr/d_thread.php?tid=5424&cid=)  
