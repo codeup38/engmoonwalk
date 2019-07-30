@@ -227,10 +227,11 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 - [강의ID 6426) cout/printf 출력 시간 차이에 대한 강의](https://codeup.kr/classop.php?class_id=6426)  
 - [강의ID 7082) 암호화 알고리즘&보안의 중요성에 대한 강의](https://codeup.kr/classop.php?class_id=7082)  
   
-  
+  <br/>
+  <br/>
   
 이 글을 끝까지 읽은 여러분에게, 앞으로도 즐거운 Codeup 생활을 하길 기원하도록 하겠다.  
 읽어주셔서 감사합니다. ;)  
-
-
+<br/>
+<br/>
 검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/
