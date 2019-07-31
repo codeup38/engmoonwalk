@@ -4,7 +4,7 @@ title: "Codeup OJ에 대해 알아보자"
 excerpt: "게시판 관리자가 알려주는 Codeup OJ 이야기"
 date: 2019-07-30
 tags: [Codeup, OJ]
-comments: true
+comments: false
 ---
 
 <https://codeup.kr>  
