@@ -234,10 +234,14 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 아래는 필자의 Codeup 개인 강의 리스트이다. 심심하면 읽어봐도 좋다.  
   
 - [강의ID 4574) Weekly Challenge :: 18.06.08](https://codeup.kr/classop.php?class_id=4574)  
+
 - [강의ID 5082) 함수의 반환값에 대한 강의](https://codeup.kr/classop.php?class_id=5082)
+
 - [강의ID 5352) C언어의 표준에 대한 강의](https://codeup.kr/classop.php?class_id=5352)  
 해당 강의를 작성했을 때는 Html/Javascript 사용이 가능했기 때문에, 들어가면 alert 창이 보인다.  
+
 - [강의ID 6426) cout/printf 출력 시간 차이에 대한 강의](https://codeup.kr/classop.php?class_id=6426)
+
 - [강의ID 7082) 암호화 알고리즘&보안의 중요성에 대한 강의](https://codeup.kr/classop.php?class_id=7082)  
   
   <br/>
