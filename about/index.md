@@ -1,37 +1,45 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+date: 2019-08-03
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+</br>
+</br>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About Codeup38  
 
-## Preview
+- 인성고등학교 44회
+- Codeup 게시판 관리자 1기
+- Codeup Coder Community 부매니저
+- 언제나 밝게 빛나는 별
+- 사실 딱히 쓸 말이 없음
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## About MoonWalk - Prestige WorkSpace
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+- 원래 테마 - <https://github.com/TaylanTatli/Moon> 
+- + 약간의 커스터마이징
+- 깃허브 블로그용으로 <creatively.dev> 구매
+- 영문/한국어 블로그 동시운영
 
-## Getting Started
+## About MoonWalk - Prestige WorkSpace
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+- forked from <https://github.com/TaylanTatli/Moon> repo
+- little Customizing from myself
+- purchased <creatively.dev> for this
+- two versions of MoonWalk - En, Ko
+
+</br>
+</br>
+</br>
+-------------------------------------------
+
+</br>
+### Special Thanks to
+
+- [Myself](https://github.com/codeup38)
+- [TaylanTatli](https://github.com/TaylanTatli), Original Moon Theme Developer
+- [Codeup OJ admin](https://codeup.kr/userinfo.php?user=admin)
+- [Codeup ID :: gbshs161101](https://codeup.kr/userinfo.php?user=gbshs161101)
+- [Everyone of Codeup Coder Community](https://cafe.naver.com/codeupcoder)
