@@ -9,7 +9,7 @@ popuplogo:          'assets/img/starIcon.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://workspace.moonwalk.cf
+url:                https://creatively.dev
 
 # Jekyll
 permalink:          /:title/
@@ -71,7 +71,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: ""
+    base_url: "/engmoonwalk"
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
