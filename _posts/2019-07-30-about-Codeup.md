@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "let's learn about codeup oj"
+title: "let's learn about codeup OJ"
 excerpt: "Talking about Codeup OJ"
 date: 2019-07-30
 tags: [Talking about Codeup OJ]
