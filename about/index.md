@@ -5,7 +5,8 @@ date: 2019-08-03
 comments: false
 ---
     
-<center><b>About</b></center>
+</br>
+</br>
 
 ## About Codeup38  
 
@@ -13,8 +14,14 @@ comments: false
 - Codeup 게시판 관리자 1기
 - Codeup Coder Community 부매니저
 - 언제나 밝게 빛나는 별
-- [코드업](https://codeup.kr/userinfo.php?user=kimgihong38), [백준](https://www.acmicpc.net/user/kimgihong38), [코드포스](https://codeforces.com/profile/kimgihong38) 에서 저를 만나보실 수 있습니다.
+- 사실 딱히 쓸 말이 없음
 
+## About MoonWalk - Prestige WorkSpace
+
+- 원래 테마 - <https://github.com/TaylanTatli/Moon> 
+- + 약간의 커스터마이징
+- 깃허브 블로그용으로 <creatively.dev> 구매
+- 영문/한국어 블로그 동시운영
 
 ## About MoonWalk - Prestige WorkSpace
 
