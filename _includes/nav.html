@@ -90,7 +90,6 @@
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-                    <li><a href="{{ site.url }}/category/">All Categories</a></li>
 				</ul>
 			</li>
             <li>
@@ -103,6 +102,13 @@
 			</li>
             <li>
 				<a href="/projects/">Projects</a>
+			</li>
+            <li>
+				<a href="#">Languages</a>
+				<ul class="dl-submenu">
+					<li><a href="{{ site.url }}/404.html/">Korean(한국어)</a></li>
+					<li><a href="{{ site.url }}/404.html/">English(영어)</a></li>
+				</ul>
 			</li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
