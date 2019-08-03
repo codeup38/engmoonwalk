@@ -11,7 +11,7 @@ comments: false
 ## About Codeup38  
 
 - 인성고등학교 44회
-- Codeup 게시판 관리자 1기
+- Codeup OJ 게시판 관리자 1기
 - Codeup Coder Community 부매니저
 - 언제나 밝게 빛나는 별
 - 사실 딱히 쓸 말이 없음
@@ -33,7 +33,7 @@ comments: false
 
 - forked from <https://github.com/TaylanTatli/Moon> repo
 - little Customizing from myself
-- purchased <creatively.dev> for this
+- purchased <https://creatively.dev> for this
 - two versions of MoonWalk - En, Ko
 
 <br/>
