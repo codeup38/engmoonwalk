@@ -3,7 +3,7 @@ layout: post
 title: "Codeup OJ에 대해 알아보자"
 excerpt: "게시판 관리자가 알려주는 Codeup OJ 이야기"
 date: 2019-07-30
-tags: [Codeup, OJ]
+tags: [Codeup, OJ, test, 테스트, O J, H  II I, 테 스트, 텥스 ]
 category: true
 comments: false
 ---
