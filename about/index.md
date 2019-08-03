@@ -50,5 +50,5 @@ comments: false
 - [Myself](https://github.com/codeup38)
 - [TaylanTatli](https://github.com/TaylanTatli), Original Moon Theme Developer
 - [Codeup OJ admin](https://codeup.kr/userinfo.php?user=admin)
-- [Codeup ID :: gbshs161101](https://codeup.kr/userinfo.php?user=gbshs161101)
+- [Codeup ID :: gbshs161101](https://codeup.kr/userinfo.php?user=gbshs161101, "코드업 최고의 인성러")
 - [Everyone of Codeup Coder Community](https://cafe.naver.com/codeupcoder)
