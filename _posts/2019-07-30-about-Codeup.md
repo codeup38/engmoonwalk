@@ -18,7 +18,7 @@ In fact, for information like this, it might be more helpful to look at the [Tre
 --------------------------
 #### What is Online Judge?
   
-Online Judge(OJ) is an online system designed to test programs in a programming competition. [Source : Wikipedia Document](https://ko.wikipedia.org/wiki/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80)
+Online Judge(OJ) is an online system designed to test programs in a programming competition. [Source: Wikipedia Document](https://ko.wikipedia.org/wiki/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80)
 
 The Wikipedia document is well explained, and links to several online judges, both domestic and foreign, so you can read for a moment.
 
@@ -49,7 +49,7 @@ It is mainly for users whose IDs begin with CS.
   
 Thank you for reading this article. ;)
 
-If you want this article - written korean, check [here](https://blog.creatively.dev/about-Codeup/).
+If you want this article - written Korean, check [here](https://blog.creatively.dev/about-Codeup/).
 <br/>
 <br/>
 Search KeyWord // Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/
