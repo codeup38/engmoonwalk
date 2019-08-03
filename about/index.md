@@ -23,7 +23,7 @@ comments: false
 
 - 원래 테마 - <https://github.com/TaylanTatli/Moon> 
 - 약간의 커스터마이징을 가미함
-- 깃허브 블로그용으로 <creatively.dev> 구매
+- 깃허브 블로그용으로 <https://creatively.dev> 구매
 - 영문/한국어 블로그 동시운영
 
 <br/>
