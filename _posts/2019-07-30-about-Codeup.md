@@ -225,7 +225,7 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
   
 하지만 이 사이트에서는 재현이 가능하기 때문에.. 다시 부활시켰다.  
   
-한번 체험해 보길 바란다. [체험해보기](https://workspace.moonwalk.cf/Codeup_SHA256.html)  
+한번 체험해 보길 바란다. [체험해보기](https://creatively.dev/Codeup_SHA256.html)  
   
 해당 글은 Codeup에서 스크립트 차단 때문에 [이렇게](https://codeup.kr/classop.php?class_id=7080) 보인다.  
   
