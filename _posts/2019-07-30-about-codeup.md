@@ -53,4 +53,4 @@ Thank you for reading this article. ;)
 If you want this article - written Korean, check [here](https://blog.creatively.dev/about-Codeup/).
 <br/>
 <br/>
-Search KeyWord // Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/{: .notice}
+<div id="search" style="display:none">Search Keyword // Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/</div>
