@@ -12,7 +12,7 @@ ad: true
   
 This article provides a brief introduction to the Codeup Online Judge.
   
-In fact, for information like this, it might be more helpful to look at the [Tree Wiki document](https://namu.wiki/w/CodeUp).
+In fact, for information like this, it might be more helpful to look at the [ Wiki document](https://namu.wiki/w/CodeUp).
 
 [I](https://codeup.kr/userinfo.php?user=kimgihong38) would like to summarize what I learned while solving about 600 problems.  
     
