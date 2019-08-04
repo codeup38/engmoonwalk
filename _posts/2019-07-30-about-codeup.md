@@ -5,6 +5,7 @@ excerpt: "Talking about Codeup OJ"
 date: 2019-07-30
 tags: [Talking about Codeup OJ]
 comments: false
+ad: true
 ---
 
 <https://codeup.kr>  
