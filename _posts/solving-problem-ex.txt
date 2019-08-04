@@ -7,12 +7,8 @@ comments: false
 ad: true
 ---
  
-[문제 번호와 이름](https://codeup.kr/problem.php?id=번호) 
-<br/>
-<br/>
 
------------------------------------------------------
-
+<br/>
 ### Problem description
  
 
@@ -57,4 +53,4 @@ ad: true
 <br/>
 <br/>
 
-```Search Keyword //```
+<div id="search" style="display:none">Search Keyword //</div>
