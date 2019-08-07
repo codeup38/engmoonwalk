@@ -106,8 +106,8 @@
             <li>
 				<a href="#">Languages</a>
 				<ul class="dl-submenu">
-					<li><a href="https://blog.creatively.dev">Korean(한국어)</a></li>
-					<li><a href="{{ site.url }}">English(영어)</a></li>
+					<li><a onclick="window.location.href='https://blog.creatively.dev'+window.location.pathname">Korean(한국어)</a></li>
+					<li><a onclick="window.location.href='https://creatively.dev'+window.location.pathname">English(영어)</a></li>
 				</ul>
 			</li>
 			{% for link in site.data.navigation %}
